@@ -2,7 +2,9 @@
 ![GitHub](https://img.shields.io/github/license/giovanna34/Trabalho-P.O.O-T2)
 # Trabalho-P.O.O-T2
 Autoras: Sophia Mello e Giovanna Gomes  ≧^◡^≦  
--------------------------------------------------------------------------------------------------
+------------------------------------------
+![image](https://user-images.githubusercontent.com/113256430/196049043-f4ffa188-78d9-47fd-8c8b-b1f3ad797f72.png)
+-----------------------------------------------------------------------------------------------
 1- Faça um programa que receba um número inteiro e verifique se é par ou ímpar.
 
 2- Faça um programa que mostre o menu de opções, receba a opção do usuário e os dados necessários para executar cada operação.
